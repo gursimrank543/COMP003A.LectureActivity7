@@ -62,7 +62,6 @@ namespace COMP003A.LectureActivity7
             string message = "hello";
             ArrayTraversal(message);
 
-
             SectionSeparator("Lists");
             // like arrays, lists store a collection of data with the same type (e.g., int, string, objects, etc.)
             // unlike arrays, lists are dynamic and can increase/ decrease in size.
